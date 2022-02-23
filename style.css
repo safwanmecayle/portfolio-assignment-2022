@@ -78,7 +78,7 @@ border-left: 5px solid sienna;
     box-shadow: 2px 2px 2px grey;
 }
 #second-img{
- background-color: #afc5da;
+    background-color: #afc5da;
     box-shadow: 2px 2px 2px grey;
 }
 #third-img{
@@ -93,7 +93,7 @@ border-left: 5px solid sienna;
     display: flex;  
     background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position:60px 100px;
+    background-position:65px 100px;
 }
 .third-part-first img{
     margin-top: 50px;
@@ -144,10 +144,10 @@ border-left: 5px solid sienna;
     height: 500px;
 }
 .bonus-part img{
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .bonus-part-second{
-    margin-left: 250px;
+    margin-left: 200px;
     margin-top: 20px;
 }
 .bonus-part-second p{
